@@ -1,0 +1,92 @@
+img {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+
+.input-checkbox {
+    display: flex;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+    border-radius: 10px;
+}
+
+button {
+    display: flex;
+}
+
+#name-label, #email-label, #age-label{
+    display: flex;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#title, #description {
+    display: flex;
+    text-align: center;
+}
+
+#name {
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+#email {
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+#age {
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+select {
+    font-size: medium;
+    font-family: 'Times New Roman';
+    width: 300px;
+}
+
+button {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.definitely, .maybe, .not-sure {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.front-end-projects, .back-end-projects, .data-visualization, .challenges, .open-source-community, .gitter-help-rooms, .videos, .city-meetups, .wiki, .forum, .additional-courses {
+    display: flex;
+    margin-top: 15px;
+}
+
+.age {
+    width: 300px;
+    font-family: 'Times New Roman';
+    font-size: medium;
+    margin-top: 10px;
+}
+
+
